@@ -1,0 +1,41 @@
+table {
+    width: 100%;
+}
+
+.fondopizzas {
+    background-image: url(/Restaurante/imagenes/FONDOS/fondopizza5.png);
+    background-repeat: no-repeat;
+    background-size: 132%;
+}
+
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lobster', cursive; 
+}
+
+
+.botonmenu {
+    color: #D4AF37;
+    font-size: large;
+    background-color:transparent;
+    border: 3px solid;
+    cursor: pointer;
+}
+
+li {
+    color: aliceblue;
+    width: 200px;
+}
+
+
+.contenedorboton {
+    text-align: center;
+}
+
+hr {
+    border-color: #D4AF37;
+}
+
+

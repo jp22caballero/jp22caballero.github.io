@@ -1,0 +1,44 @@
+.body {
+    background-image: url(/Restaurante/imagenes/FONDOS/fondohamburguesas2.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+
+
+table {
+    width: 100%;
+}
+
+li {
+    width: 250px;
+}
+
+.botonmenu {
+    color: #D4AF37;
+    font-size: large;
+    background-color:transparent;
+    border: 3px solid;
+    cursor: pointer;
+}
+
+.contenedorboton {
+    text-align: center;
+    
+}
+
+.titulohamburguesas {
+    text-align: center;
+    border-color: 3px #D4AF37 solid;
+}
+
+
+hr {
+    border-color: #D4AF37;
+}
+
+h1 {
+        font-family: 'Lobster', cursive; 
+        text-align: center;
+    }
+
+
